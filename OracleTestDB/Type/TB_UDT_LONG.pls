@@ -1,0 +1,1 @@
+create or replace TYPE TB_UDT_LONG AS TABLE OF UDT_LONG;
